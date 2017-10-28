@@ -16,7 +16,7 @@
     <meta property="og:url" content="http://sometimespaulreads.herokuapp.com" />
 
 <!--    <meta property="og:image" content="https://western.developers.foundation/assets/img/background/banner.png" />-->
-    <meta property="og:description" content="Biref thoughts on other peoples ideas." />
+    <meta property="og:description" content="Brief thoughts on other peoples ideas." />
 
     <meta property="fb:app_id" content="" />
 
