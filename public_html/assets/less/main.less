@@ -1,0 +1,132 @@
+
+@BLUE100: #BBDEFB;
+@BLUE300: #64B5F6;
+@BLUE500: #2196F3;
+
+@ORANGEACCENT1: #FF6E40;
+@ORANGEACCENT2: #FF3D00;
+
+@GREY: #757575;
+
+.raleway{
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: 300;
+}
+
+.black{
+  color: black;
+}
+
+.roboto{
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 300;
+}
+
+.font700{
+  font-weight: 700 !important;
+}
+
+.materialShadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.materialShadowDarker{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
+}
+
+.parentCenter{
+  height: 100% !important;
+  display: table;
+  width: 100%;
+}
+
+.childCenter{
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.desktop{
+  @media (max-width: 660px){
+    display: none;
+  }
+}
+
+.mobile{
+  @media (min-width: 661px){
+    display: none;
+  }
+}
+
+*{
+  //border: solid 1px red !important;
+}
+
+
+
+
+
+// INFO CARDS
+.infoCard {
+  .materialShadow;
+  background-color: white;
+  position: absolute;
+  z-index: 5;
+  width: 28%;
+  height: 98%;
+
+  left: 1%;
+  top: 1%;
+  padding: 2%;
+
+  overflow-y: scroll !important;
+
+  .context{
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 1.3em !important;
+  }
+}
+
+
+
+/*============================================ NAVIGATION.PHP =====================================*/
+
+.navButton{
+  .materialShadow;
+
+  height: 36px;
+  width: 36px;
+  border: 2px solid @ORANGEACCENT1;
+  font-size: 20px;
+  border-radius: 50%;
+  color: white;
+  transition: all 0.5s;
+  background-color: @ORANGEACCENT1;
+  cursor: pointer;
+  z-index: 9999 !important;
+  position: fixed;
+  left: 10px;
+
+  &:hover{
+    background-color: @ORANGEACCENT2;
+    border: 2px solid @ORANGEACCENT2;
+
+  }
+}
+
+#navigation-left{
+  .navButton;
+  top: 90%;
+  left: 10%;
+  padding: 5px 9px;
+}
+
+#navigation-right{
+  .navButton;
+  top: 90%;
+  left: 90%;
+  padding: 5px 11px;
+}
