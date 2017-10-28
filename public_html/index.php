@@ -20,7 +20,7 @@
 
     <meta property="fb:app_id" content="" />
 
-    <title>This is Paul.</title>
+    <title>Sometimes Paul Reads</title>
 
     <!-- Favicons
     ================================================== -->
@@ -56,7 +56,7 @@
     <link href="//fonts.googleapis.com/css?family=Raleway:300,700" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="assets/less/main.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/less/main.css">
 
 </head>
 

@@ -1,15 +1,10 @@
 
-let first = true;
-let infoCar = $("#car-2");
-let NUM_CARS = 4;
+let NUM_CARS = 2;
 let CHANGE_LOCK = false;
 
 function changeTrainCar(currentCar: any, nextCar: any, direction: String): void{
     CHANGE_LOCK = true;
 
-    if(currentCar == infoCar){
-        $('#card-tooltip').fadeOut(1000);
-    }
     let currentCarMove: String;
     let vertical = false;
 
@@ -70,10 +65,6 @@ function changeTrainCar(currentCar: any, nextCar: any, direction: String): void{
         CHANGE_LOCK = false
     }, 750);
 
-    if(first && nextCar == infoCar){
-        first = false;
-        $('#card-tooltip').fadeIn(2000);
-    }
 }
 
 function moveCar(key: number){
@@ -100,7 +91,6 @@ function moveCar(key: number){
 $('body').on('keydown', function (e) {
     let key = e.which || e.keyCode;
     if(key == 37 || key == 39){
-        $('#direction-tooltip').fadeOut(1000);
         moveCar(key);
     }
 });

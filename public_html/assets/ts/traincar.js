@@ -1,12 +1,7 @@
-var first = true;
-var infoCar = $("#car-2");
-var NUM_CARS = 4;
+var NUM_CARS = 2;
 var CHANGE_LOCK = false;
 function changeTrainCar(currentCar, nextCar, direction) {
     CHANGE_LOCK = true;
-    if (currentCar == infoCar) {
-        $('#card-tooltip').fadeOut(1000);
-    }
     var currentCarMove;
     var vertical = false;
     switch (direction) {
@@ -62,10 +57,6 @@ function changeTrainCar(currentCar, nextCar, direction) {
         currentCar.removeClass('traincar-active');
         CHANGE_LOCK = false;
     }, 750);
-    if (first && nextCar == infoCar) {
-        first = false;
-        $('#card-tooltip').fadeIn(2000);
-    }
 }
 function moveCar(key) {
     if (!CHANGE_LOCK) {
@@ -90,7 +81,6 @@ function moveCar(key) {
 $('body').on('keydown', function (e) {
     var key = e.which || e.keyCode;
     if (key == 37 || key == 39) {
-        $('#direction-tooltip').fadeOut(1000);
         moveCar(key);
     }
 });

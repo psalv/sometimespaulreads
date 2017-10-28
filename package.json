@@ -1,0 +1,13 @@
+{
+  "name": "sometimespaulreads",
+  "author": "Paul Salvatore",
+  "version": "1.0.0",
+  "main": "./public_html/assets/ts/main.js",
+  "types": "./lib/main.d.ts",
+  "license": "",
+  "repository": "",
+  "dependencies": {
+    "@types/jquery": "^2.0.34",
+    "typescript": "^2.5.3"
+  }
+}

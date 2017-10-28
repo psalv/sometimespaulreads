@@ -20,15 +20,23 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
 }
-.parentCenter {
+.parent {
   height: 100% !important;
   display: table;
   width: 100%;
 }
+.child {
+  display: table-cell;
+  width: 100%;
+}
 .childCenter {
   display: table-cell;
-  vertical-align: middle;
   width: 100%;
+  vertical-align: middle;
+}
+body {
+  min-width: 750px;
+  min-height: 550px;
 }
 @media (max-width: 660px) {
   .desktop {
@@ -40,23 +48,52 @@
     display: none;
   }
 }
-.infoCard {
+.novel {
+  height: 67.5vh;
+  width: 45vh;
+}
+/*============================================ TRAINCAR.PHP =====================================*/
+.traincar-car {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  display: none;
+}
+.traincar-active {
+  display: block !important;
+}
+img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 67.5vh;
+  width: 45vh;
+}
+.col-xs-6 {
+  padding-top: 20px;
+  position: relative;
+}
+.bookCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 67.5vh;
+  width: 45vh;
   background-color: white;
-  position: absolute;
-  z-index: 5;
-  width: 28%;
-  height: 98%;
-  left: 1%;
-  top: 1%;
-  padding: 2%;
   overflow-y: scroll !important;
 }
-.infoCard .context {
-  font-weight: 700;
-  margin-top: 20px;
-  font-size: 1.3em !important;
+.bookCard .bookTitle {
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: 300;
+  padding-top: 15px;
+}
+.bookCard hr {
+  border: 1px solid #cccccc;
+  width: 90%;
+}
+.bookCard .bookText {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 300;
+  padding: 10px;
 }
 /*============================================ NAVIGATION.PHP =====================================*/
 .navButton {
@@ -64,64 +101,67 @@
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   height: 36px;
   width: 36px;
-  border: 2px solid #FF6E40;
   font-size: 20px;
   border-radius: 50%;
-  color: white;
+  color: black;
   transition: all 0.5s;
-  background-color: #FF6E40;
   cursor: pointer;
   z-index: 9999 !important;
   position: fixed;
   left: 10px;
 }
 .navButton:hover {
-  background-color: #FF3D00;
-  border: 2px solid #FF3D00;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
 }
 #navigation-left {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   height: 36px;
   width: 36px;
-  border: 2px solid #FF6E40;
   font-size: 20px;
   border-radius: 50%;
-  color: white;
+  color: black;
   transition: all 0.5s;
-  background-color: #FF6E40;
   cursor: pointer;
   z-index: 9999 !important;
   position: fixed;
   left: 10px;
-  top: 90%;
-  left: 10%;
-  padding: 5px 9px;
+  top: 50%;
+  left: 3%;
+  padding: 7px 10px;
 }
 #navigation-left:hover {
-  background-color: #FF3D00;
-  border: 2px solid #FF3D00;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
 }
 #navigation-right {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   height: 36px;
   width: 36px;
-  border: 2px solid #FF6E40;
   font-size: 20px;
   border-radius: 50%;
-  color: white;
+  color: black;
   transition: all 0.5s;
-  background-color: #FF6E40;
   cursor: pointer;
   z-index: 9999 !important;
   position: fixed;
   left: 10px;
-  top: 90%;
-  left: 90%;
-  padding: 5px 11px;
+  top: 50%;
+  left: calc(98% - 36px);
+  left: -moz-calc(98% - 36px);
+  left: -webkit-calc(98% - 36px);
+  left: -o-calc(98% - 36px);
+  padding: 7px 13px;
 }
 #navigation-right:hover {
-  background-color: #FF3D00;
-  border: 2px solid #FF3D00;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
+}
+.title {
+  font-size: 4em;
+  left: 3%;
+  top: 2%;
+  position: fixed;
 }
