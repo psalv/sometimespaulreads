@@ -1,5 +1,5 @@
 
-let NUM_CARS = 2;
+let NUM_CARS = $(".traincar-car").length;
 let CHANGE_LOCK = false;
 
 function changeTrainCar(currentCar: any, nextCar: any, direction: String): void{

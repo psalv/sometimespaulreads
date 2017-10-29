@@ -1,4 +1,4 @@
-var NUM_CARS = 2;
+var NUM_CARS = $(".traincar-car").length;
 var CHANGE_LOCK = false;
 function changeTrainCar(currentCar, nextCar, direction) {
     CHANGE_LOCK = true;
