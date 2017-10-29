@@ -37,12 +37,12 @@ for($i = 0; $i < sizeof($COVERS); $i++){
             <div class='parent'>
                 <div class='childCenter'>
                     <div class='row'>
-                        <div class='col-sm-6 text-right right'>
+                        <div class='col-md-6 text-right right'>
         
                             <img src='" . $COVERS[$i] . "'>
     
                         </div>
-                        <div class='col-sm-6 left'>
+                        <div class='col-md-6 left'>
                             <div class='bookCard'>
                                 <div class='bookTitle text-center'>" . $TITLES[$i] . "</div>
                                 <hr>

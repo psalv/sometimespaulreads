@@ -104,8 +104,8 @@ $('#navigation-right').on('click', function () {
 });
 
 function checkWidth(){
-    let width = $(this).width();
-    if(width > 758){
+    let width = $(window).width();
+    if(width > 991){
         $('.left').removeClass("text-center");
         $('.right').removeClass("text-center").addClass("text-right");
     } else{

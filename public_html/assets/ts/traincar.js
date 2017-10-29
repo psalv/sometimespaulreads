@@ -91,8 +91,8 @@ $('#navigation-right').on('click', function () {
     moveCar(39);
 });
 function checkWidth() {
-    var width = $(this).width();
-    if (width > 758) {
+    var width = $(window).width();
+    if (width > 991) {
         $('.left').removeClass("text-center");
         $('.right').removeClass("text-center").addClass("text-right");
     }
