@@ -18,6 +18,10 @@
 .font700 {
   font-weight: 700 !important;
 }
+.materialShadowLighter {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+}
 .materialShadow {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -41,23 +45,19 @@
   vertical-align: middle;
 }
 body {
-  min-width: 750px;
-  min-height: 550px;
   overflow-x: hidden;
-}
-@media (max-width: 660px) {
-  .desktop {
-    display: none;
-  }
-}
-@media (min-width: 661px) {
-  .mobile {
-    display: none;
-  }
 }
 .novel {
   height: 67.5vh;
   width: 45vh;
+  padding: 20px;
+  text-align: center;
+}
+@media (max-height: 800px) {
+  .novel {
+    height: 450px !important;
+    width: 300px !important;
+  }
 }
 /*============================================ TRAINCAR.PHP =====================================*/
 .traincar-car {
@@ -69,11 +69,36 @@ body {
 .traincar-active {
   display: block !important;
 }
+@media (max-width: 768px) {
+  .row {
+    margin-top: 80px;
+    margin-bottom: 30px;
+  }
+}
+@media (max-height: 600px) {
+  .row {
+    margin-top: 80px;
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 768px) {
+  .left {
+    margin-top: 30px;
+  }
+}
 img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   height: 67.5vh;
   width: 45vh;
+  padding: 20px;
+  text-align: center;
+}
+@media (max-height: 800px) {
+  img {
+    height: 450px !important;
+    width: 300px !important;
+  }
 }
 .col-xs-6 {
   padding-top: 20px;
@@ -84,8 +109,16 @@ img {
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   height: 67.5vh;
   width: 45vh;
+  padding: 20px;
+  text-align: center;
   background-color: white;
   overflow-y: scroll !important;
+}
+@media (max-height: 800px) {
+  .bookCard {
+    height: 450px !important;
+    width: 300px !important;
+  }
 }
 .bookCard .bookTitle {
   text-transform: uppercase;
@@ -167,9 +200,17 @@ img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
 }
-.title {
+nav {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+  width: 100%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 3%;
   font-size: 4em;
-  left: 3%;
-  top: 2%;
-  position: fixed;
+}
+@media (max-height: 800px) {
+  nav {
+    font-size: 2.3em;
+  }
 }

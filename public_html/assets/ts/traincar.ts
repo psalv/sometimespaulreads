@@ -102,3 +102,25 @@ $('#navigation-left').on('click', function () {
 $('#navigation-right').on('click', function () {
     moveCar(39);
 });
+
+function checkWidth(){
+    let width = $(this).width();
+    if(width > 758){
+        $('.left').removeClass("text-center");
+        $('.right').removeClass("text-center").addClass("text-right");
+    } else{
+        $('.left').addClass("text-center");
+        $('.right').removeClass("text-right").addClass("text-center");
+    }
+}
+
+
+$(function jQueryResize (){
+    $(window).resize(function(){
+        checkWidth();
+    });
+});
+
+$(function () {
+    checkWidth();
+});

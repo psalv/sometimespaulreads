@@ -68,6 +68,7 @@
 $page = "index-page";
 $hasGmap = true;
 
+include "html_elements/nav.php";
 include "html_elements/traincar.php";
 include "html_elements/navigation.php";
 
