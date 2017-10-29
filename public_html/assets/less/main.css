@@ -47,6 +47,11 @@
 body {
   overflow-x: hidden;
 }
+@media (max-width: 1300px) {
+  body .bookCard {
+    font-size: 1em;
+  }
+}
 .novel {
   height: 67.5vh;
   width: 45vh;
