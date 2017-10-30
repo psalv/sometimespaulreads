@@ -1,9 +1,8 @@
 
 
-
-
 <?php
 
+// the book thief
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
     "assets/img/covers/animalfarm.png",
@@ -41,8 +40,19 @@ $DESCRIPTIONS = [
     The characters are real and the struggles heartbreaking.
     ",
 
-    "Animal Farm",
-    "An Astronaut's Guide to Life on Earth",
+    "
+    <b>2015</b><br><br>
+    Chilling.<br><br>
+    A brief overview into power and corruption.
+    ",
+
+    "
+    <b>2016</b><br><br>
+    Reassuring, and helping.<br><br>
+    Chris Hadfield has no secret other than hard work and dedication.<br><br>
+    A necessary reminder to a generation of instant gratification.
+    ",
+
     "
     <b>2016</b><br><br>
     Imaginative.<br><br>
@@ -133,3 +143,4 @@ for($i = 0; $i < sizeof($COVERS); $i++){
 }
 
 ?>
+
