@@ -45,8 +45,21 @@ $DESCRIPTIONS = [
     "An Astronaut's Guide to Life on Earth",
     "Dune",
     "Of Mice and Men",
-    "Sherlock Holmes",
-    "The Cather in the Rye",
+    "
+    <b>2014</b><br><br>
+    Delightfully magnificent.<br><br>
+    Never has being on the edge of your seat been so fun.<br><br>
+    Sherlock Holmes is the epitome of characters.<br><br>
+    Arthur Conan Doyle's genius never ceases to amaze me.
+    ",
+
+    "
+    <b>2015.</b><br><br>
+    Introspective, and reminiscent.<br><br>
+    A character seldom played but very relatable.<br><br>
+    Sharing a moment of distress felt by everyone but spoken by few.<br><br>
+    A soothing emotion to share.
+    ",
 
     "
     <b>2015.</b><br><br>
