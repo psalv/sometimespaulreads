@@ -48,7 +48,7 @@ $DESCRIPTIONS = [
 
     "
     <b>2016</b><br><br>
-    Reassuring, and helping.<br><br>
+    Reassuring, and helpful.<br><br>
     Chris Hadfield has no secret other than hard work and dedication.<br><br>
     A necessary reminder to a generation of instant gratification.
     ",
