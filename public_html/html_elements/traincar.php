@@ -43,7 +43,11 @@ $DESCRIPTIONS = [
 
     "Animal Farm",
     "An Astronaut's Guide to Life on Earth",
-    "Dune",
+    "
+    <b>2016</b><br><br>
+    Imaginative.<br><br>
+    A mysterious universe with a certain allure.
+    ",
 
     "
     <b>2017</b><br><br>
