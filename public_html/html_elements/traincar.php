@@ -44,7 +44,14 @@ $DESCRIPTIONS = [
     "Animal Farm",
     "An Astronaut's Guide to Life on Earth",
     "Dune",
-    "Of Mice and Men",
+
+    "
+    <b>2017</b><br><br>
+    Woeful, and humbling.<br><br>
+    A tale of the beauty and cruelty in the world.<br><br>
+    Provokes one's values and compassion.
+    ",
+
     "
     <b>2014</b><br><br>
     Delightfully magnificent.<br><br>
