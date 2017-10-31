@@ -92,6 +92,8 @@ $('body').on('keydown', function (e) {
     let key = e.which || e.keyCode;
     if(key == 37 || key == 39){
         moveCar(key);
+    } else if(key == 32){
+        moveCar(39);
     }
 });
 

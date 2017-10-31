@@ -83,6 +83,9 @@ $('body').on('keydown', function (e) {
     if (key == 37 || key == 39) {
         moveCar(key);
     }
+    else if (key == 32) {
+        moveCar(39);
+    }
 });
 $('#navigation-left').on('click', function () {
     moveCar(37);
