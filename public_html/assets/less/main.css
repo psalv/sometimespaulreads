@@ -54,12 +54,12 @@ body {
 }
 @media (max-height: 600px) {
   body nav {
-    font-size: 1.3em;
+    font-size: 1.5em;
   }
 }
 @media (max-width: 1000px) {
   body nav {
-    font-size: 1.3em;
+    font-size: 1.5em;
   }
 }
 .novel {
@@ -86,7 +86,7 @@ body {
 }
 @media (max-width: 991px) {
   .row {
-    margin-top: 80px;
+    margin-top: 60px;
     margin-bottom: 8%;
   }
 }
