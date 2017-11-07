@@ -2,7 +2,6 @@
 
 <?php
 
-// the book thief
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
     "assets/img/covers/animalfarm.png",
