@@ -13,9 +13,8 @@
     <meta property="og:title" content="Sometimes Paul Reads" />
     <meta property="og:site_name" content="Sometimes Paul Reads" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://sometimespaulreads.herokuapp.com" />
+    <meta property="og:url" content="http://sometimespaulreads.com" />
 
-<!--    <meta property="og:image" content="https://western.developers.foundation/assets/img/background/banner.png" />-->
     <meta property="og:description" content="Brief thoughts on other peoples ideas." />
 
     <meta property="fb:app_id" content="" />
@@ -25,7 +24,6 @@
     <!-- Favicons
     ================================================== -->
 
-    <!--
     <link rel="shortcut icon" href="assets/img/favicon/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon/apple-icon-60x60.png">
@@ -41,10 +39,9 @@
     <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
     <link rel="manifest" href="assets/img/favicon/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileColor" content="#2196F3">
     <meta name="msapplication-TileImage" content="assets/img/favicon/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    -->
+    <meta name="theme-color" content="#2196F3">
 
     <!--=========================================== CSS FILES ===========================================-->
     <!-- Bootstrap Core CSS -->
