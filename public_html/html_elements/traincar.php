@@ -184,6 +184,73 @@ $DESCRIPTIONS = [
     Wise in his years, the fisherman Santiago embodies the virtues that each one of us strive for.
     ",
 
+//    "1984",
+//    "20000 Leagues Under the Sea",
+//    "A Farewell to Arms",
+//    "Around the World in 80 Days",
+//    "Brave New World",
+//    "Call of the Wild",
+//          "Do Androids Dream of Electric Sheep?",
+//          "Strange Case of Dr. Jekyll and Mr. Hyde",
+//          "Flatland",
+//    "For Whom the Bell Tolls",
+//    "Gulliver's Travels",
+//    "The Hitchhiker's Guide to the Galaxy",
+//    "How to Win Friends and Influence People",
+//    "Jungle Tales of Tarzan",
+//    "Jurassic Park",
+//    "Pride and Prejudice",
+//    "Siddhartha",
+//    "Sled Driver",
+//    "Solving the Procrastination Puzzle",
+//    "Surely You're Joking Mr. Feynman",
+//    "The Bell Jar",
+//    "The Book Thief",
+//    "The Count of Monte Cristo",
+//    "The Diamond as Big as the Ritz",
+//    "The God Delusion",
+//    "The Invisible Man",
+//    "The Island of Doctor Moreau",
+//    "The Lost World",
+//    "The Phantom of the Opera",
+//    "The Shining",
+//    "The Sun Also Rises",
+//    "The War of the Worlds",
+//    "The Time Machine",
+//    "Treasure Island",
+//    "Under the Dome",
+//          "Vice Versa: A Lesson to Fathers"
+
+    "<b>Forthcoming.</b><br><br>",
+    "<b>Forthcoming.</b><br><br>",
+    "<b>Forthcoming.</b><br><br>",
+    "<b>Forthcoming.</b><br><br>",
+    "<b>Forthcoming.</b><br><br>",
+    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2015.</b><br><br>
+    Uniquely captivating.<br><br>
+    A quaint take on a mildly dystopian world.<br><br>
+    A book that keeps you guessing in the most delightful way.
+    ",
+
+    "
+    <b>2015.</b><br><br>
+    Fresh, and methodical.<br><br>
+    A very English take on gritty.<br><br>
+    An easy and enjoyable classic.<br><br>
+    I enjoyed imagining the reaction incited in the book's own time.
+    ",
+
+    "
+    <b>2015.</b><br><br>
+    Timeless, and eye-opening.<br><br>
+    An extraordinary way of explaining the unexplainable<br><br>
+    A two-tiered story, combining intrigue with insight.<br><br>
+    A true gem for one's perspective.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
@@ -210,16 +277,14 @@ $DESCRIPTIONS = [
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>"
+
+    "    
+    <b>2016.</b><br><br>
+    Ceaselessly amusing.<br><br>
+    A tale that leaves you with the slightest grin on each page.<br><br>
+    A classically beautiful take on a cliche.<br><br>
+    Perspectively wonderful.
+    "
 ];
 
 
