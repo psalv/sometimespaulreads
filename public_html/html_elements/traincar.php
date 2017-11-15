@@ -187,7 +187,7 @@ $DESCRIPTIONS = [
 //    "1984",
 //    "20000 Leagues Under the Sea",
 //    "A Farewell to Arms",
-//    "Around the World in 80 Days",
+//      "Around the World in 80 Days",
 //    "Brave New World",
 //    "Call of the Wild",
 //          "Do Androids Dream of Electric Sheep?",
@@ -224,7 +224,15 @@ $DESCRIPTIONS = [
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2016.</b><br><br>
+    Classically fun.<br><br>
+    Another book best described by a subtle grin.<br><br>
+    Wonderfully captures the feelings of flight and chase.<br><br>
+    Ever changing scenery keeps excitement alive throughout the entire novel.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
 
