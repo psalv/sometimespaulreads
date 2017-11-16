@@ -210,10 +210,10 @@ $DESCRIPTIONS = [
 //    "The Diamond as Big as the Ritz",
 //    "The God Delusion",
 //    "The Invisible Man",
-//    "The Island of Doctor Moreau",
+//         "The Island of Doctor Moreau",
 //    "The Lost World",
 //    "The Phantom of the Opera",
-//    "The Shining",
+//          "The Shining",
 //    "The Sun Also Rises",
 //    "The War of the Worlds",
 //    "The Time Machine",
@@ -276,10 +276,26 @@ $DESCRIPTIONS = [
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2017.</b><br><br>
+    Curious fun.<br><br>
+    An adventure in an utterly unique setting.<br><br>
+    Explores both madness and power just briefly enough to raise a question.<br><br>
+    Perfectly an H.G. Wells novel.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2015.</b><br><br>
+    Eerie, and creeping.<br><br>
+    Wonderfully written and perfectly frightening.<br><br>
+    The horror sets in slowly; one doesn't realize until they're absolutely terrified.<br><br>
+    A captivating story with extremely well-developed characters.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
