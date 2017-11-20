@@ -205,7 +205,7 @@ $DESCRIPTIONS = [
 //          "Flatland",
 //    "For Whom the Bell Tolls",
 //    "Gulliver's Travels",
-//    "The Hitchhiker's Guide to the Galaxy",
+//          "The Hitchhiker's Guide to the Galaxy",
 //    "How to Win Friends and Influence People",
 //    "Jungle Tales of Tarzan",
 //    "Jurassic Park",
@@ -271,7 +271,14 @@ $DESCRIPTIONS = [
 
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2015.</b><br><br>
+    Underwhelming.<br><br>
+    Funny at times, but largely disappointing.<br><br>
+    Perhaps I'm missing something.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
