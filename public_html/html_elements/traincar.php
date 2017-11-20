@@ -4,6 +4,7 @@
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
+    "assets/img/covers/tokillamockingbird.png",
     "assets/img/covers/animalfarm.png",
     "assets/img/covers/astronaughtsguidetolifeonearth.png",
     "assets/img/covers/dune.png",
@@ -54,6 +55,7 @@ $COVERS = [
 
 $TITLES = [
     "To Have and Have Not",
+    "To Kill a Mockingbird",
     "Animal Farm",
     "An Astronaut's Guide to Life on Earth",
     "Dune",
@@ -106,39 +108,47 @@ $DESCRIPTIONS = [
     "
     <b>2017.</b><br><br>
     Quiet, rich, and beautiful.<br><br>
-    Another Hemmingway gem.<br><br>
+    Another Hemingway gem.<br><br>
     This journey from success to annihilation pulls you deeper into the question of what gives life value.<br><br>
     The characters are real and the struggles heartbreaking.
     ",
 
+    "    
+    <b>2017.</b><br><br>
+    Timelessly harrowing.<br><br>
+    Reveals ugly truths about our former and current world through the eye of innocence.<br><br>
+    Draws attention to the heroism present in daily life.<br><br>
+    And makes you wonder what's the difference between a finch and mockingbird.
+    ",
+
     "
-    <b>2015</b><br><br>
+    <b>2015.</b><br><br>
     Chilling.<br><br>
     A brief overview into power and corruption.
     ",
 
     "
-    <b>2016</b><br><br>
+    <b>2016.</b><br><br>
     Reassuring, and helpful.<br><br>
     Chris Hadfield has no secret other than hard work and dedication.<br><br>
     A necessary reminder to a generation of instant gratification.
     ",
 
     "
-    <b>2016</b><br><br>
+    <b>2016.</b><br><br>
     Imaginative.<br><br>
     A mysterious universe with a certain allure.
     ",
 
     "
-    <b>2017</b><br><br>
+    <b>2017.</b><br><br>
     Woeful, and humbling.<br><br>
     A tale of the beauty and cruelty in the world.<br><br>
     Provokes one's values and compassion.
     ",
 
     "
-    <b>2014</b><br><br>
+    <b>2014.</b><br><br>
     Delightfully magnificent.<br><br>
     Never has being on the edge of your seat been so fun.<br><br>
     Sherlock Holmes is the epitome of characters.<br><br>
@@ -156,9 +166,9 @@ $DESCRIPTIONS = [
     "
     <b>2015.</b><br><br>
     Fun.<br><br>
-    Hard to put down, draws you into the challenges of escaping Mars.<br><br>
-    With each feat of ingenuity and creativity, the book manages to top itself in each chapter.<br><br>
-    Climbing into the mind of an astronaut was a breathtaking experience.
+    Difficult to put down.<br><br>
+    The book manages to top itself time and again with each new feat of ingenuity and creativity.<br><br>
+    Climbing into the mind of an astronaut.
     ",
 
     "
@@ -179,7 +189,7 @@ $DESCRIPTIONS = [
     "
     <b>2016.</b><br><br>
     Empowering, humbling, and meaningful.<br><br>
-    This is the book that began my romance with Hemmingway.<br><br>
+    This is the book that began my romance with Hemingway.<br><br>
     The book is short but it's lessons have stayed with me for a long time.<br><br>
     Wise in his years, the fisherman Santiago embodies the virtues that each one of us strive for.
     ",
