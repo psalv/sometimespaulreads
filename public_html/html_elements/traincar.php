@@ -211,7 +211,7 @@ $DESCRIPTIONS = [
 //    "Jurassic Park",
 //    "Pride and Prejudice",
 //    "Siddhartha",
-//    "Sled Driver",
+//          "Sled Driver",
 //    "Solving the Procrastination Puzzle",
 //    "Surely You're Joking Mr. Feynman",
 //    "The Bell Jar",
@@ -284,7 +284,15 @@ $DESCRIPTIONS = [
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2016.</b><br><br>
+    Truly extraordinary.<br><br>
+    Stories from an entirely different world.<br><br>
+    They will leave you laughing, awed, and humbled.<br><br>
+    Passion in one of it's finest forms.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
