@@ -217,7 +217,7 @@ $DESCRIPTIONS = [
 //    "The Bell Jar",
 //    "The Book Thief",
 //    "The Count of Monte Cristo",
-//    "The Diamond as Big as the Ritz",
+//          "The Diamond as Big as the Ritz",
 //    "The God Delusion",
 //    "The Invisible Man",
 //         "The Island of Doctor Moreau",
@@ -298,7 +298,14 @@ $DESCRIPTIONS = [
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2017.</b><br><br>
+    Seductive.<br><br>
+    Glamour portrayed through ultimate splendour.<br><br>
+    A glimpse into the blinding power of wealth.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
 
