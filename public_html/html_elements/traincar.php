@@ -196,7 +196,7 @@ $DESCRIPTIONS = [
 
 //    "1984",
 //    "20000 Leagues Under the Sea",
-//    "A Farewell to Arms",
+//          "A Farewell to Arms",
 //          "Around the World in 80 Days",
 //    "Brave New World",
 //    "Call of the Wild",
@@ -233,7 +233,14 @@ $DESCRIPTIONS = [
 
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2016.</b><br><br>
+    Hope, and futility.<br><br>
+    Challenges the actions of mankind through startlingly contrast.<br><br>
+    Gives the gift of feeling powerless.<br><br>
+    Purely Hemingway.
+    ",
 
     "
     <b>2016.</b><br><br>
