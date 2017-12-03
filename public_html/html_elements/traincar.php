@@ -228,7 +228,7 @@ $DESCRIPTIONS = [
 //    "The War of the Worlds",
 //    "The Time Machine",
 //    "Treasure Island",
-//    "Under the Dome",
+//          "Under the Dome",
 //          "Vice Versa: A Lesson to Fathers"
 
     "<b>Forthcoming.</b><br><br>",
@@ -339,7 +339,14 @@ $DESCRIPTIONS = [
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "    
+    <b>2016.</b><br><br>
+    Emotionally rich, and powerfully written.<br><br>
+    Like having manipulation and paranoia dropped into your backyard.<br><br>
+    Incredible depth and character throughout the entire novel.<br><br>
+    Enjoyable on every page.
+    ",
 
     "    
     <b>2016.</b><br><br>
