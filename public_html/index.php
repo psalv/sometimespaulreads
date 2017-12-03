@@ -75,6 +75,7 @@
 $page = "index-page";
 $hasGmap = true;
 
+include "bookinfo.php";
 include "html_elements/traincar.php";
 include "html_elements/navigation.php";
 
