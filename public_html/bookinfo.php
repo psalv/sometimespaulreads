@@ -216,7 +216,7 @@ $DESCRIPTIONS = [
 //    "The Book Thief",
 //    "The Count of Monte Cristo",
 //          "The Diamond as Big as the Ritz",
-//    "The God Delusion",
+//          "The God Delusion",
 //    "The Invisible Man",
 //         "The Island of Doctor Moreau",
 //    "The Lost World",
@@ -325,7 +325,14 @@ $DESCRIPTIONS = [
     A glimpse into the blinding power of wealth.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2014.</b><br><br>
+    Perspective.<br><br>
+    The widespread phenomenon of religion as understood by a geneticist.<br><br>
+    Human behaviour under the microscope.<br><br>
+    Challenges the reader to reexamine assumed knowledge. 
+    ",
+
     "<b>Forthcoming.</b><br><br>",
 
     "
