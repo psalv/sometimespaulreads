@@ -329,8 +329,8 @@ $DESCRIPTIONS = [
     <b>2014.</b><br><br>
     Perspective.<br><br>
     The widespread phenomenon of religion as understood by a geneticist.<br><br>
-    Human behaviour under the microscope.<br><br>
-    Challenges the reader to reexamine assumed knowledge. 
+    Human behaviour reexamined.<br><br>
+    Challenges the reader's assumed knowledge. 
     ",
 
     "<b>Forthcoming.</b><br><br>",
