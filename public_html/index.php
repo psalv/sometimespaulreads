@@ -95,6 +95,5 @@ include "html_elements/navigation.php";
 <script src="assets/ts/traincar.js" type="text/javascript"></script>
 
 
-
 </body>
 </html>

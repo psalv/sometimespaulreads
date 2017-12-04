@@ -105,9 +105,33 @@ $('#navigation-right').on('click', function () {
     moveCar(39);
 });
 
+function changeToSpecificCar(id: number){
+    if(!CHANGE_LOCK) {
+
+        let currentCar = $('.traincar-active').first();
+
+        currentCar.promise().done(function (this) {
+            let currentPosition = parseInt(this.attr('data-car-id'));
+            if (currentPosition != id) {
+                let direction = 'right';
+                if(currentPosition > id){
+                    direction = 'left';
+                }
+                changeTrainCar(this, $('#car-' + id.toString()), direction)
+            }
+        });
+
+    }
+}
+
+$('.navItem').on('click', function (this) {
+    changeToSpecificCar(parseInt($(this).attr('data-car-id')));
+});
+
 function checkWidth(){
     let width = $(window).width();
     if(width > 991){
+        $('.left').removeClass("text-center");
         $('.left').removeClass("text-center");
         $('.right').removeClass("text-center").addClass("text-right");
     } else{

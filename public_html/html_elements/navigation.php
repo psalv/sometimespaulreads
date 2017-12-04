@@ -10,8 +10,9 @@
         </div>
     </div>
 
-    <div class="hidden" id="navTarget">
-        <ul class="nav navbar-nav navbar-right">
+    <div class="hidden row text-right dropdownNav">
+        <hr>
+        <ul class="nav">
             <?php
             for($i = 0; $i < sizeof($COVERS); $i++){
                 echo("
@@ -25,6 +26,7 @@
             ?>
         </ul>
     </div>
+
 
 </nav>
 <i id="navigation-left"></i>

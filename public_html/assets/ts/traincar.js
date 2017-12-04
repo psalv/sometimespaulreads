@@ -93,9 +93,28 @@ $('#navigation-left').on('click', function () {
 $('#navigation-right').on('click', function () {
     moveCar(39);
 });
+function changeToSpecificCar(id) {
+    if (!CHANGE_LOCK) {
+        var currentCar = $('.traincar-active').first();
+        currentCar.promise().done(function () {
+            var currentPosition = parseInt(this.attr('data-car-id'));
+            if (currentPosition != id) {
+                var direction = 'right';
+                if (currentPosition > id) {
+                    direction = 'left';
+                }
+                changeTrainCar(this, $('#car-' + id.toString()), direction);
+            }
+        });
+    }
+}
+$('.navItem').on('click', function () {
+    changeToSpecificCar(parseInt($(this).attr('data-car-id')));
+});
 function checkWidth() {
     var width = $(window).width();
     if (width > 991) {
+        $('.left').removeClass("text-center");
         $('.left').removeClass("text-center");
         $('.right').removeClass("text-center").addClass("text-right");
     }
