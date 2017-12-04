@@ -208,7 +208,7 @@ $DESCRIPTIONS = [
 //    "Jungle Tales of Tarzan",
 //    "Jurassic Park",
 //    "Pride and Prejudice",
-//    "Siddhartha",
+//          "Siddhartha",
 //          "Sled Driver",
 //    "Solving the Procrastination Puzzle",
 //    "Surely You're Joking Mr. Feynman",
@@ -295,7 +295,14 @@ $DESCRIPTIONS = [
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2015.</b><br><br>
+    Insightful, and nourishing.<br><br>
+    A terrific journey through the suffering and wanting of life.<br><br>
+    The story's appeal matures well.<br><br>
+    An essential read for those seeking more.<br><br>
+    ",
 
     "
     <b>2016.</b><br><br>
