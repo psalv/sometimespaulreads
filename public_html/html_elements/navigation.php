@@ -6,7 +6,7 @@
         </div>
 
         <div class="col-xs-2 text-right">
-<!--            <i class="fa fa-angle-down" id="dropdown" ></i>-->
+            <i class="fa fa-angle-down" id="dropdown" ></i>
         </div>
     </div>
 
@@ -29,5 +29,6 @@
 
 
 </nav>
-<i id="navigation-left"></i>
-<i id="navigation-right"></i>
+
+<i class="hidable" id="navigation-left"></i>
+<i class="hidable" id="navigation-right"></i>

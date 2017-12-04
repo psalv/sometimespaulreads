@@ -1,6 +1,7 @@
 var NUM_CARS = $(".traincar-car").length;
 var CHANGE_LOCK = false;
-function changeTrainCar(currentCar, nextCar, direction) {
+function changeTrainCar(currentCar, nextCar, direction, speed) {
+    if (speed === void 0) { speed = 750; }
     CHANGE_LOCK = true;
     var currentCarMove;
     var vertical = false;
@@ -40,18 +41,18 @@ function changeTrainCar(currentCar, nextCar, direction) {
     if (vertical) {
         currentCar.stop().animate({
             top: currentCarMove
-        }, 750);
+        }, speed);
         nextCar.stop().animate({
             top: '0'
-        }, 750);
+        }, speed);
     }
     else {
         currentCar.stop().animate({
             left: currentCarMove
-        }, 750);
+        }, speed);
         nextCar.stop().animate({
             left: '0'
-        }, 740);
+        }, speed);
     }
     setTimeout(function () {
         currentCar.removeClass('traincar-active');
@@ -103,13 +104,28 @@ function changeToSpecificCar(id) {
                 if (currentPosition > id) {
                     direction = 'left';
                 }
-                changeTrainCar(this, $('#car-' + id.toString()), direction);
+                changeTrainCar(this, $('#car-' + id.toString()), direction, 0);
             }
+            $('#dropdown').removeClass('fa-angle-up').addClass('fa-angle-down');
+            $('.dropdownNav').addClass("hidden");
+            $('.hidable').removeClass("hidden");
         });
     }
 }
 $('.navItem').on('click', function () {
     changeToSpecificCar(parseInt($(this).attr('data-car-id')));
+});
+$('#dropdown').on('click', function () {
+    if ($(this).hasClass('fa-angle-down')) {
+        $(this).removeClass('fa-angle-down').addClass('fa-angle-up');
+        $('.hidable').addClass("hidden");
+        $('.dropdownNav').removeClass("hidden");
+    }
+    else {
+        $(this).removeClass('fa-angle-up').addClass('fa-angle-down');
+        $('.dropdownNav').addClass("hidden");
+        $('.hidable').removeClass("hidden");
+    }
 });
 function checkWidth() {
     var width = $(window).width();

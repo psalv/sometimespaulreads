@@ -248,8 +248,15 @@ nav .navItem {
   cursor: pointer;
   font-size: 0.8em;
   padding-right: 40px;
+  margin: 20px;
 }
 nav .dropdownNav {
   max-height: 400px;
   overflow-y: scroll;
+}
+.hidable {
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
 }

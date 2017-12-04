@@ -1,5 +1,6 @@
 
 
+<div class="hidable">
 <?php
 
 for($i = 0; $i < sizeof($COVERS); $i++){
@@ -32,3 +33,4 @@ for($i = 0; $i < sizeof($COVERS); $i++){
 
 ?>
 
+</div>
