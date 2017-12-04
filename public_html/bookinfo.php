@@ -192,7 +192,7 @@ $DESCRIPTIONS = [
     Wise in his years, the fisherman Santiago embodies the virtues that each one of us strive for.
     ",
 
-//    "1984",
+//          "1984",
 //    "20000 Leagues Under the Sea",
 //          "A Farewell to Arms",
 //          "Around the World in 80 Days",
@@ -229,7 +229,14 @@ $DESCRIPTIONS = [
 //          "Under the Dome",
 //          "Vice Versa: A Lesson to Fathers"
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2013.</b><br><br>
+    Tremendously agitating.<br><br>
+    An account of strength and weakness.<br><br>
+    The bleakest overtones fill this oppressive world.<br><br>
+    A warning or prediction.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
 
     "
