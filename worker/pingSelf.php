@@ -7,7 +7,7 @@
  */
 
 
-$sites = array('http://sometimespaulreads.herokuapp.com');
+$sites = array('http://sometimespaulreads.com');
 $handles = array();
 
 foreach ($sites as $i => $url) {
