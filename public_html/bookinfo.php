@@ -210,7 +210,7 @@ $DESCRIPTIONS = [
 //    "Pride and Prejudice",
 //          "Siddhartha",
 //          "Sled Driver",
-//    "Solving the Procrastination Puzzle",
+//          "Solving the Procrastination Puzzle",
 //    "Surely You're Joking Mr. Feynman",
 //    "The Bell Jar",
 //    "The Book Thief",
@@ -312,7 +312,13 @@ $DESCRIPTIONS = [
     Passion in one of it's finest forms.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2017.</b><br><br>
+    Necessarily honest.<br><br>
+    Does a wonderful job of helping the reader to understand their own behaviour and tactifully present alternatives.<br><br>
+    It will not suffice to only read this book once.
+    ",
+    
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
