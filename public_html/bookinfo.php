@@ -206,7 +206,7 @@ $DESCRIPTIONS = [
 //          "The Hitchhiker's Guide to the Galaxy",
 //    "How to Win Friends and Influence People",
 //    "Jungle Tales of Tarzan",
-//    "Jurassic Park",
+//          "Jurassic Park",
 //    "Pride and Prejudice",
 //          "Siddhartha",
 //          "Sled Driver",
@@ -293,7 +293,14 @@ $DESCRIPTIONS = [
 
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2017.</b><br><br>
+    Looming tension, and splendid fun.<br><br>
+    Impossible dilemmas, a magical island, and magnificent perseverance.<br><br>
+    A well-thought-out story.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
 
     "
