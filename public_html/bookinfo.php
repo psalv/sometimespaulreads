@@ -2,6 +2,7 @@
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
+    "assets/img/covers/thewisdomofinsecurity.png",
     "assets/img/covers/tokillamockingbird.png",
     "assets/img/covers/animalfarm.png",
     "assets/img/covers/astronaughtsguidetolifeonearth.png",
@@ -53,6 +54,7 @@ $COVERS = [
 
 $TITLES = [
     "To Have and Have Not",
+    "The Wisdom of Insecurity",
     "To Kill a Mockingbird",
     "Animal Farm",
     "An Astronaut's Guide to Life on Earth",
@@ -113,10 +115,18 @@ $DESCRIPTIONS = [
 
     "    
     <b>2017.</b><br><br>
+    Illuminating.<br><br>
+    Beautifully frames the issue of insecurity and anxiety.<br><br>
+    Focuses on the endless lesson of \"now\".<br><br>
+    A very soothing and guiding perspective.
+    ",
+
+    "    
+    <b>2017.</b><br><br>
     Timelessly harrowing.<br><br>
-    Reveals ugly truths about our former and current world through the eye of innocence.<br><br>
+    Reveals ugly truths about our former and current world through the eyes of innocence.<br><br>
     Draws attention to the heroism present in daily life.<br><br>
-    And makes you wonder what's the difference between a finch and mockingbird.
+    And makes you wonder what the difference is between a finch and a mockingbird.
     ",
 
     "
