@@ -215,7 +215,7 @@ $DESCRIPTIONS = [
 //    "Gulliver's Travels",
 //          "The Hitchhiker's Guide to the Galaxy",
 //    "How to Win Friends and Influence People",
-//    "Jungle Tales of Tarzan",
+//          "Jungle Tales of Tarzan",
 //          "Jurassic Park",
 //    "Pride and Prejudice",
 //          "Siddhartha",
@@ -302,7 +302,13 @@ $DESCRIPTIONS = [
     ",
 
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2017.</b><br><br>
+    Amusing, and captivating.<br><br>
+    Stories from a unique character with a charming perspective.<br><br>
+    A small world with much to offer.
+    ",
 
     "
     <b>2017.</b><br><br>
