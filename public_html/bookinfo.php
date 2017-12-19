@@ -31,6 +31,7 @@ $COVERS = [
     "assets/img/covers/jurassicpark.png",
     "assets/img/covers/prideandprejudice.png",
     "assets/img/covers/siddhartha.png",
+    "assets/img/covers/slaughterhousefive.png",
     "assets/img/covers/sleddriver.png",
     "assets/img/covers/solvingtheprocrastinationpuzzle.png",
     "assets/img/covers/surelyyourejokingmrfeynman.png",
@@ -83,6 +84,7 @@ $TITLES = [
     "Jurassic Park",
     "Pride and Prejudice",
     "Siddhartha",
+    "Slaughterhouse-Five",
     "Sled Driver",
     "Solving the Procrastination Puzzle",
     "Surely You're Joking Mr. Feynman",
@@ -239,6 +241,7 @@ $DESCRIPTIONS = [
 //          "Under the Dome",
 //          "Vice Versa: A Lesson to Fathers"
 
+
     "
     <b>2013.</b><br><br>
     Tremendously agitating.<br><br>
@@ -325,6 +328,14 @@ $DESCRIPTIONS = [
     A terrific journey through the suffering and wanting of life.<br><br>
     The story's appeal matures well.<br><br>
     An essential read for those seeking more.<br><br>
+    ",
+
+    "
+    <b>2015.</b><br><br>
+    Painfully moving.<br><br>
+    The disorientation of wars atrocities as they echo forever.<br><br>
+    A breathtaking view on life.<br><br>
+    An unexpectedly beautiful take on science fiction.
     ",
 
     "
