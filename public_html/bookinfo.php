@@ -209,7 +209,7 @@ $DESCRIPTIONS = [
 //          "A Farewell to Arms",
 //          "Around the World in 80 Days",
 //    "Brave New World",
-//    "Call of the Wild",
+//          "Call of the Wild",
 //          "Do Androids Dream of Electric Sheep?",
 //          "Strange Case of Dr. Jekyll and Mr. Hyde",
 //          "Flatland",
@@ -269,7 +269,13 @@ $DESCRIPTIONS = [
     ",
 
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2015.</b><br><br>
+    Savage, and astonishing.<br><br>
+    A journey of exploration unlike any other.<br><br>
+    A steady march towards primitive and instinctual brutality.
+    ",
 
     "
     <b>2015.</b><br><br>
