@@ -87,7 +87,7 @@ $TITLES = [
     "Slaughterhouse-Five",
     "Sled Driver",
     "Solving the Procrastination Puzzle",
-    "Surely You're Joking Mr. Feynman",
+    "Surely You're Joking, Mr. Feynman",
     "The Bell Jar",
     "The Book Thief",
     "The Count of Monte Cristo",
@@ -223,7 +223,7 @@ $DESCRIPTIONS = [
 //          "Siddhartha",
 //          "Sled Driver",
 //          "Solving the Procrastination Puzzle",
-//    "Surely You're Joking Mr. Feynman",
+//          "Surely You're Joking Mr. Feynman",
 //    "The Bell Jar",
 //    "The Book Thief",
 //    "The Count of Monte Cristo",
@@ -331,7 +331,7 @@ $DESCRIPTIONS = [
     Giddy enticement.<br><br>
     A book about intrigue, and preconceptions.<br><br>
     The novelty felt by the characters translates wonderfully to the reader.<br><br>
-    A perfect paced romance.
+    A perfectly paced romance.
     ",
 
     "
@@ -364,8 +364,15 @@ $DESCRIPTIONS = [
     Does a wonderful job of helping the reader to understand their own behaviour and tactifully present alternatives.<br><br>
     It will not suffice to only read this book once.
     ",
-    
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2016.</b><br><br>
+    Absolutely riveting.<br><br>
+    Richard Feynman's amusing stories, valuable lessons, and unending humour makes this an absolute must read.<br><br>
+    Everyday tales form the mind of a genius.<br><br>
+    Truly marvelous.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
