@@ -1,5 +1,7 @@
 <?php
 
+$UPDATED = "20 / 12 / 17";
+
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
     "assets/img/covers/thewisdomofinsecurity.png",

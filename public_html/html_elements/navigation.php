@@ -32,3 +32,7 @@
 
 <i class="hidable" id="navigation-left"></i>
 <i class="hidable" id="navigation-right"></i>
+
+<div class="updated">
+    <?php echo($UPDATED)?>
+</div>

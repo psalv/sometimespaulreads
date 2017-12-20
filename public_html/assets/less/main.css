@@ -260,3 +260,15 @@ nav .dropdownNav {
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
+.updated {
+  position: fixed;
+  font-size: 0.8em;
+  font-family: 'Roboto', sans-serif !important;
+  left: 94%;
+  top: 95%;
+}
+@media (max-width: 991px) {
+  .updated {
+    display: none;
+  }
+}
