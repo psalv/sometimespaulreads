@@ -219,7 +219,7 @@ $DESCRIPTIONS = [
 //    "How to Win Friends and Influence People",
 //          "Jungle Tales of Tarzan",
 //          "Jurassic Park",
-//    "Pride and Prejudice",
+//          "Pride and Prejudice",
 //          "Siddhartha",
 //          "Sled Driver",
 //          "Solving the Procrastination Puzzle",
@@ -326,7 +326,13 @@ $DESCRIPTIONS = [
     A well-thought-out story.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2017.</b><br><br>
+    Giddy enticement.<br><br>
+    A book about intrigue, and preconceptions.<br><br>
+    The novelty felt by the characters translates wonderfully to the reader.<br><br>
+    A perfect paced romance.
+    ",
 
     "
     <b>2015.</b><br><br>
