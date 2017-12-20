@@ -225,7 +225,7 @@ $DESCRIPTIONS = [
 //          "Solving the Procrastination Puzzle",
 //          "Surely You're Joking Mr. Feynman",
 //    "The Bell Jar",
-//    "The Book Thief",
+//          "The Book Thief",
 //    "The Count of Monte Cristo",
 //          "The Diamond as Big as the Ritz",
 //          "The God Delusion",
@@ -374,7 +374,15 @@ $DESCRIPTIONS = [
     ",
 
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "
+    <b>2016.</b><br><br>
+    Simply beautiful.<br><br>
+    An unexpected exploration into the ceaseless persistence of humanity.<br><br>
+    Continually touching, introspective, and illuminating.<br><br>
+    A literary treasure.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
 
     "
