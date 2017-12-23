@@ -238,7 +238,7 @@ $DESCRIPTIONS = [
 //          "The Shining",
 //    "The Sun Also Rises",
 //    "The War of the Worlds",
-//    "The Time Machine",
+//          "The Time Machine",
 //    "Treasure Island",
 //          "Under the Dome",
 //          "Vice Versa: A Lesson to Fathers"
@@ -431,7 +431,14 @@ $DESCRIPTIONS = [
 
     "<b>Forthcoming.</b><br><br>",
     "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+
+    "    
+    <b>2015.</b><br><br>
+    Mysterious, and strange.<br><br>
+    Questions rush in as an entirely new and everlastingly eerie world is painted.<br><br>
+    A story filled with naivety and discovery.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
 
     "    
