@@ -228,7 +228,7 @@ $DESCRIPTIONS = [
 //          "Surely You're Joking Mr. Feynman",
 //    "The Bell Jar",
 //          "The Book Thief",
-//    "The Count of Monte Cristo",
+//          "The Count of Monte Cristo",
 //          "The Diamond as Big as the Ritz",
 //          "The God Delusion",
 //    "The Invisible Man",
@@ -385,7 +385,13 @@ $DESCRIPTIONS = [
     A literary treasure.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2014.</b><br><br>
+    Unprecedented excellence.<br><br>
+    A compelling story of patient justice and unrelenting composure.<br><br>
+    Consistently clever, tremendously written, and perfectly moving.<br><br>
+    A masterpiece.
+    ",
 
     "
     <b>2017.</b><br><br>
