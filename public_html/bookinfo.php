@@ -1,6 +1,6 @@
 <?php
 
-$UPDATED = "20 / 12 / 17";
+$UPDATED = "26 / 12 / 17";
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
@@ -207,7 +207,7 @@ $DESCRIPTIONS = [
     ",
 
 //          "1984",
-//    "20000 Leagues Under the Sea",
+//          "20000 Leagues Under the Sea",
 //          "A Farewell to Arms",
 //          "Around the World in 80 Days",
 //    "Brave New World",
@@ -252,7 +252,12 @@ $DESCRIPTIONS = [
     A warning or prediction.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2014.</b><br><br>
+    Constant adventure.<br><br>
+    A journey to captivate one's sense of discovery.<br><br>
+    You can feel the electricity of being on the move.
+    ",
 
     "
     <b>2016.</b><br><br>
