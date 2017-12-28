@@ -1,6 +1,6 @@
 <?php
 
-$UPDATED = "26 / 12 / 17";
+$UPDATED = "28 / 12 / 17";
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
@@ -215,8 +215,8 @@ $DESCRIPTIONS = [
 //          "Do Androids Dream of Electric Sheep?",
 //          "Strange Case of Dr. Jekyll and Mr. Hyde",
 //          "Flatland",
-//    "For Whom the Bell Tolls",
-//    "Gulliver's Travels",
+//          "For Whom the Bell Tolls",
+//          "Gulliver's Travels",
 //          "The Hitchhiker's Guide to the Galaxy",
 //    "How to Win Friends and Influence People",
 //          "Jungle Tales of Tarzan",
@@ -307,8 +307,20 @@ $DESCRIPTIONS = [
     A true gem for one's perspective.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2017.</b><br><br>
+    Powerful, and resonant.<br><br>
+    Whispers of hope and the trudge of painful reality are at the forefront of this novel.<br><br>
+    An exploration in acceptance.<br><br>
+    Hauntingly vivid.
+    ",
+
+    "
+    <b>2017.</b><br><br>
+    Whimsical, and entertaining.<br><br>
+    Well-written and self-contained stories to amuse and surprise.<br><br>
+    Precisely adventure.
+    ",
 
     "
     <b>2015.</b><br><br>
