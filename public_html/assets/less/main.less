@@ -65,8 +65,12 @@
   vertical-align: middle;
 }
 
+html, body{
+  overflow-x: hidden !important;
+}
+
 body{
-  overflow-x: hidden;
+  //overflow-x: hidden;
 
   @media (max-width: 1440px){
     .bookCard{
@@ -200,6 +204,10 @@ img{
   &:hover{
     .materialShadowDarker;
   }
+
+  @media (max-width: 600px) {
+    display: none;
+  }
 }
 
 #navigation-left{
@@ -222,14 +230,21 @@ img{
 }
 
 nav {
-  .materialShadowLighter;
+  border: none !important;
+  //.materialShadowLighter;
   width: 100%;
   padding-top: 1%;
+  @media (max-width: 600px) {
+    padding-top: 2%;
+  }
   padding-bottom: 1%;
   font-size: 2em;
 
   .col-xs-10{
     padding-left: 3%;
+    @media (max-width: 600px) {
+      padding-left: 5%;
+    }
   }
 
   .row{
@@ -249,7 +264,7 @@ nav {
   }
 
   .dropdownNav {
-    max-height: 400px;
+    max-height: 600px;
     overflow-y: scroll;
   }
 

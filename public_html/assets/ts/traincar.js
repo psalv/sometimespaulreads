@@ -147,3 +147,23 @@ $(function jQueryResize() {
 $(function () {
     checkWidth();
 });
+var xDown = null;
+function handleTouchStart(evt) {
+    xDown = evt.touches[0].clientX;
+}
+function handleTouchMove(evt) {
+    if (!xDown) {
+        return;
+    }
+    var xDiff = xDown - evt.touches[0].clientX;
+    console.log(xDiff);
+    if (xDiff > 5) {
+        moveCar(39);
+    }
+    else if (xDiff < -5) {
+        moveCar(37);
+    }
+    xDown = null;
+}
+document.addEventListener('touchstart', handleTouchStart, false);
+document.addEventListener('touchmove', handleTouchMove, false);

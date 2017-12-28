@@ -1,5 +1,5 @@
 
-<nav class="raleway">
+<nav class="raleway ">
     <div class="row">
         <div class="col-xs-10">
             sometimes paul reads.

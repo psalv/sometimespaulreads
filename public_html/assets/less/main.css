@@ -44,8 +44,9 @@
   width: 100%;
   vertical-align: middle;
 }
+html,
 body {
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 @media (max-width: 1440px) {
   body .bookCard {
@@ -181,6 +182,11 @@ img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
 }
+@media (max-width: 600px) {
+  .navButton {
+    display: none;
+  }
+}
 #navigation-left {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -201,6 +207,11 @@ img {
 #navigation-left:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
+}
+@media (max-width: 600px) {
+  #navigation-left {
+    display: none;
+  }
 }
 #navigation-right {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -226,16 +237,30 @@ img {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.38) !important;
 }
+@media (max-width: 600px) {
+  #navigation-right {
+    display: none;
+  }
+}
 nav {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.04);
-  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.04);
+  border: none !important;
   width: 100%;
   padding-top: 1%;
   padding-bottom: 1%;
   font-size: 2em;
 }
+@media (max-width: 600px) {
+  nav {
+    padding-top: 2%;
+  }
+}
 nav .col-xs-10 {
   padding-left: 3%;
+}
+@media (max-width: 600px) {
+  nav .col-xs-10 {
+    padding-left: 5%;
+  }
 }
 nav .row {
   margin: 0;
@@ -251,7 +276,7 @@ nav .navItem {
   margin: 20px;
 }
 nav .dropdownNav {
-  max-height: 400px;
+  max-height: 600px;
   overflow-y: scroll;
 }
 .hidable {
