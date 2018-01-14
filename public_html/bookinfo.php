@@ -1,6 +1,6 @@
 <?php
 
-$UPDATED = "28 / 12 / 17";
+$UPDATED = "14 / 01 / 18";
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
@@ -236,7 +236,7 @@ $DESCRIPTIONS = [
 //    "The Lost World",
 //    "The Phantom of the Opera",
 //          "The Shining",
-//    "The Sun Also Rises",
+//          "The Sun Also Rises",
 //    "The War of the Worlds",
 //          "The Time Machine",
 //    "Treasure Island",
@@ -446,7 +446,14 @@ $DESCRIPTIONS = [
     A captivating story with extremely well-developed characters.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2015.</b><br><br>
+    Patiently moving.<br><br>
+    The poetry of life displayed as it is.<br><br>
+    Nuances of this novel will travel with you, surprising you for long to come.<br><br>
+    An unexpected and unique piece of literature.
+    ",
+
     "<b>Forthcoming.</b><br><br>",
 
     "    
