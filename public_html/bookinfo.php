@@ -206,44 +206,6 @@ $DESCRIPTIONS = [
     Wise in his years, the fisherman Santiago embodies the virtues that each one of us strive for.
     ",
 
-//          "1984",
-//          "20000 Leagues Under the Sea",
-//          "A Farewell to Arms",
-//          "Around the World in 80 Days",
-//    "Brave New World",
-//          "Call of the Wild",
-//          "Do Androids Dream of Electric Sheep?",
-//          "Strange Case of Dr. Jekyll and Mr. Hyde",
-//          "Flatland",
-//          "For Whom the Bell Tolls",
-//          "Gulliver's Travels",
-//          "The Hitchhiker's Guide to the Galaxy",
-//    "How to Win Friends and Influence People",
-//          "Jungle Tales of Tarzan",
-//          "Jurassic Park",
-//          "Pride and Prejudice",
-//          "Siddhartha",
-//          "Sled Driver",
-//          "Solving the Procrastination Puzzle",
-//          "Surely You're Joking Mr. Feynman",
-//    "The Bell Jar",
-//          "The Book Thief",
-//          "The Count of Monte Cristo",
-//          "The Diamond as Big as the Ritz",
-//          "The God Delusion",
-//    "The Invisible Man",
-//         "The Island of Doctor Moreau",
-//    "The Lost World",
-//    "The Phantom of the Opera",
-//          "The Shining",
-//          "The Sun Also Rises",
-//    "The War of the Worlds",
-//          "The Time Machine",
-//    "Treasure Island",
-//          "Under the Dome",
-//          "Vice Versa: A Lesson to Fathers"
-
-
     "
     <b>2013.</b><br><br>
     Tremendously agitating.<br><br>
@@ -275,7 +237,13 @@ $DESCRIPTIONS = [
     Ever changing scenery keeps excitement alive throughout the entire novel.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2014.</b><br><br>
+    Unnerving.<br><br>
+    The weakness and arrogance of mankind as we grow comfortable and proud.<br><br>
+    Numb curiosity becomes festering fear as the realities outlined become all too relatable.<br><br>
+    Echos louder with each passing year.
+    ",
 
     "
     <b>2015.</b><br><br>
@@ -329,7 +297,13 @@ $DESCRIPTIONS = [
     Perhaps I'm missing something.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2015.</b><br><br>
+    Classically straightforward.<br><br>
+    Dale Carnegie isn't teaching you how to be a business man, but rather how to be a decent person.<br><br>
+    The lessons aren't shocking, they are things we all know but choose to ignore by our own accord.<br><br>
+    The voice of reason needed to guide you back on track.
+    ",
 
     "
     <b>2017.</b><br><br>
@@ -392,7 +366,12 @@ $DESCRIPTIONS = [
     Truly marvelous.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2017.</b><br><br>
+    Hollow.<br><br>
+    An intentionally unpleasant account of a quietly painful world.<br><br>
+    Anxiety and despair rupturing from powerlessness.
+    ",
 
     "
     <b>2016.</b><br><br>
@@ -425,7 +404,12 @@ $DESCRIPTIONS = [
     Challenges the reader's assumed knowledge. 
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2017.</b><br><br>
+    Anger, and anguish.<br><br>
+    A portrayal of a wonderfully difficult situation and the accompanying struggle to overcome it.<br><br>
+    Frustration done right.
+    ",
 
     "
     <b>2017.</b><br><br>
@@ -435,8 +419,19 @@ $DESCRIPTIONS = [
     Perfectly an H.G. Wells novel.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
-    "<b>Forthcoming.</b><br><br>",
+    "
+    <b>2017.</b><br><br>
+    Unreachingly wonderful.<br><br>
+    An enjoyable read in an undeniably exciting world.<br><br>
+    Unoriginal but nevertheless fun.
+    ",
+
+    "
+    <b>2016.</b><br><br>
+    Unexpectedly exciting.<br><br>
+    Perfectly naive characters and a beautifully arranged mystery.<br><br>
+    A romance utterly overshadowed by the setting.<br><br>
+    ",
 
     "
     <b>2015.</b><br><br>
@@ -454,7 +449,12 @@ $DESCRIPTIONS = [
     An unexpected and unique piece of literature.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "    
+    <b>2016.</b><br><br>
+    Futility redefined.<br><br>
+    A challenge to mankind's self-proclaimed dominance and entitlement.<br><br>
+    The impermanence and relativity of strength and weakness.
+    ",
 
     "    
     <b>2015.</b><br><br>
@@ -463,7 +463,12 @@ $DESCRIPTIONS = [
     A story filled with naivety and discovery.
     ",
 
-    "<b>Forthcoming.</b><br><br>",
+    "    
+    <b>2015.</b><br><br>
+    Captivating from page one.<br><br>
+    An intriguing narrative and exciting setting.<br><br>
+    A great journey filled with truly fun imagery.
+    ",
 
     "    
     <b>2016.</b><br><br>
