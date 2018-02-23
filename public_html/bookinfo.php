@@ -1,9 +1,10 @@
 <?php
 
-$UPDATED = "22 / 01 / 18";
+$UPDATED = "23 / 02 / 18";
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
+    "assets/img/covers/spocksworld.png",
     "assets/img/covers/thewisdomofinsecurity.png",
     "assets/img/covers/tokillamockingbird.png",
     "assets/img/covers/animalfarm.png",
@@ -57,6 +58,7 @@ $COVERS = [
 
 $TITLES = [
     "To Have and Have Not",
+    "Spock's World",
     "The Wisdom of Insecurity",
     "To Kill a Mockingbird",
     "Animal Farm",
@@ -115,6 +117,14 @@ $DESCRIPTIONS = [
     Another Hemingway gem.<br><br>
     This journey from success to annihilation pulls you deeper into the question of what gives life value.<br><br>
     The characters are real and the struggles heartbreaking.
+    ",
+
+    "    
+    <b>2018.</b><br><br>
+    Marvelous.<br><br>
+    A completely compelling account combining history and narrative.<br><br>
+    Rich in lessons and reminders about confronting our emotions.<br><br>
+    A novel that consistently managed to surprise me and exceed my expectations.
     ",
 
     "    
