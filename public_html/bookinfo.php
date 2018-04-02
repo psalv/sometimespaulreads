@@ -1,9 +1,10 @@
 <?php
 
-$UPDATED = "23 / 02 / 18";
+$UPDATED = "02 / 03 / 18";
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
+    "assets/img/covers/alifeinparts.png",
     "assets/img/covers/spocksworld.png",
     "assets/img/covers/thewisdomofinsecurity.png",
     "assets/img/covers/tokillamockingbird.png",
@@ -58,6 +59,7 @@ $COVERS = [
 
 $TITLES = [
     "To Have and Have Not",
+    "A Life in Parts",
     "Spock's World",
     "The Wisdom of Insecurity",
     "To Kill a Mockingbird",
@@ -117,6 +119,14 @@ $DESCRIPTIONS = [
     Another Hemingway gem.<br><br>
     This journey from success to annihilation pulls you deeper into the question of what gives life value.<br><br>
     The characters are real and the struggles heartbreaking.
+    ",
+
+    "    
+    <b>2018.</b><br><br>
+    Truly exceptional.<br><br>
+    A fascinating life filled with struggle, self-discovery, and art.<br><br>
+    Bryan Cranston tells his story magnificently and masterfully.<br><br>
+    A perfectly crafted autobiography.
     ",
 
     "    
