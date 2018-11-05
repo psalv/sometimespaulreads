@@ -60,7 +60,7 @@ $COVERS = [
 
 $TITLES = [
     "To Have and Have Not",
-    "Checklist Manifesto",
+    "The Checklist Manifesto",
     "A Life in Parts",
     "Spock's World",
     "The Wisdom of Insecurity",
