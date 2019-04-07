@@ -4,6 +4,7 @@ $UPDATED = "04 / 10 / 18";
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
+    "assets/img/covers/elevation.png",
     "assets/img/covers/checklistmanifesto.png",
     "assets/img/covers/alifeinparts.png",
     "assets/img/covers/spocksworld.png",
@@ -60,6 +61,7 @@ $COVERS = [
 
 $TITLES = [
     "To Have and Have Not",
+    "Elevation",
     "The Checklist Manifesto",
     "A Life in Parts",
     "Spock's World",
@@ -121,6 +123,12 @@ $DESCRIPTIONS = [
     Another Hemingway gem.<br><br>
     This journey from success to annihilation pulls you deeper into the question of what gives life value.<br><br>
     The characters are real and the struggles heartbreaking.
+    ",
+    "
+    <b>2018.</b><br><br>
+    Incredibly unique.<br><br>
+    An exceptional story like none I have ever had the pleasure of reading before.<br><br>
+    Stephen King's talented writing is surpassed by his incredible characters and undeniable originality.
     ",
 
     "
