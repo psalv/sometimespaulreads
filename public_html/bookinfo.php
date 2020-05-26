@@ -1,9 +1,11 @@
 <?php
 
-$UPDATED = "07 / 04 / 19";
+$UPDATED = "25 / 05 / 20";
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
+    "assets/img/covers/readyplayerone.png",
+    "assets/img/covers/starshiptroopers.png",
     "assets/img/covers/elevation.png",
     "assets/img/covers/checklistmanifesto.png",
     "assets/img/covers/alifeinparts.png",
@@ -61,6 +63,8 @@ $COVERS = [
 
 $TITLES = [
     "To Have and Have Not",
+    "Ready Player One",
+    "Starship Troopers",
     "Elevation",
     "The Checklist Manifesto",
     "A Life in Parts",
@@ -124,6 +128,23 @@ $DESCRIPTIONS = [
     This journey from success to annihilation pulls you deeper into the question of what gives life value.<br><br>
     The characters are real and the struggles heartbreaking.
     ",
+
+    "
+    <b>2020.</b><br><br>
+    Entirely captivating.<br><br>
+    A fantastic adventure that I couldn’t put down.<br><br>
+    Combines elements of nostalgia with dystopia to create a refreshing and fun read.<br><br>
+    The universe is imaginative, detailed, and relatable.
+    ",
+
+    "
+    <b>2020.</b><br><br>
+    Perceptive and intriguing.<br><br>
+    A tale of personal growth and duty.<br><br>
+    Heinlein cleverly challenges our institutions offering insightful alternatives.<br><br>
+    The story’s restraint serves to magnify it’s powerful message. 
+    ",
+
     "
     <b>2018.</b><br><br>
     Incredibly unique.<br><br>
