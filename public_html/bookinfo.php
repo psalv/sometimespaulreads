@@ -1,9 +1,10 @@
 <?php
 
-$UPDATED = "25 / 05 / 20";
+$UPDATED = "12 / 07 / 20";
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
+    "assets/img/covers/galapagos.png",
     "assets/img/covers/readyplayerone.png",
     "assets/img/covers/starshiptroopers.png",
     "assets/img/covers/elevation.png",
@@ -63,6 +64,7 @@ $COVERS = [
 
 $TITLES = [
     "To Have and Have Not",
+    "Galápagos",
     "Ready Player One",
     "Starship Troopers",
     "Elevation",
@@ -127,6 +129,13 @@ $DESCRIPTIONS = [
     Another Hemingway gem.<br><br>
     This journey from success to annihilation pulls you deeper into the question of what gives life value.<br><br>
     The characters are real and the struggles heartbreaking.
+    ",
+
+    "
+    <b>2020.</b><br><br>
+    An insightful idea.<br><br>
+    Vonnegut argues our intelligence as our downfall in a very unusual form of storytelling.<br><br>
+    While at some points the story's unique flow felt burdensome, the inventiveness in this narrative cannot go unmentioned.
     ",
 
     "
