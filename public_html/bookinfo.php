@@ -1,9 +1,10 @@
 <?php
 
-$UPDATED = "12 / 07 / 20";
+$UPDATED = "18 / 08 / 20";
 
 $COVERS = [
     "assets/img/covers/tohaveandhavenot.png",
+    "assets/img/covers/armada.png",
     "assets/img/covers/galapagos.png",
     "assets/img/covers/readyplayerone.png",
     "assets/img/covers/starshiptroopers.png",
@@ -64,6 +65,7 @@ $COVERS = [
 
 $TITLES = [
     "To Have and Have Not",
+    "Armada",
     "Galápagos",
     "Ready Player One",
     "Starship Troopers",
@@ -129,6 +131,13 @@ $DESCRIPTIONS = [
     Another Hemingway gem.<br><br>
     This journey from success to annihilation pulls you deeper into the question of what gives life value.<br><br>
     The characters are real and the struggles heartbreaking.
+    ",
+
+    "
+    <b>2020.</b><br><br>
+    Constant excitement.<br><br>
+    A fast paced, and enjoyable doomsday novel.<br><br>
+    Quality sci-fi without any of the frills.
     ",
 
     "
