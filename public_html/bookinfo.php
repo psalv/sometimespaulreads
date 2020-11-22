@@ -65,7 +65,7 @@ $COVERS = [
 ];
 
 $TITLES = [
-    "Shogun",
+    "Shōgun",
     "To Have and Have Not",
     "Armada",
     "Galápagos",
