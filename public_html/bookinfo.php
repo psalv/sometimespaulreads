@@ -3,6 +3,7 @@
 $UPDATED = "18 / 08 / 20";
 
 $COVERS = [
+    "assets/img/covers/shogun.png",
     "assets/img/covers/tohaveandhavenot.png",
     "assets/img/covers/armada.png",
     "assets/img/covers/galapagos.png",
@@ -64,6 +65,7 @@ $COVERS = [
 ];
 
 $TITLES = [
+    "Shogun",
     "To Have and Have Not",
     "Armada",
     "Galápagos",
@@ -125,6 +127,14 @@ $TITLES = [
 ];
 
 $DESCRIPTIONS = [
+    "
+    <b>2020.</b><br><br>
+    Completely immersive. Truly exceptional.<br><br>
+    More than an adventure, an exploration into our preconceptions and capabilities.<br><br>
+    A story that becomes so much more the longer it goes on. I didn't want it to end, but was delighted in how it did.<br><br>
+    A must read.
+    ",
+
     "
     <b>2017.</b><br><br>
     Quiet, rich, and beautiful.<br><br>
