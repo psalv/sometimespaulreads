@@ -1,6 +1,6 @@
 <?php
 
-$UPDATED = "18 / 08 / 20";
+$UPDATED = "22 / 11 / 20";
 
 $COVERS = [
     "assets/img/covers/shogun.png",
